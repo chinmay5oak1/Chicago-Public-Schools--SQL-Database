@@ -4,7 +4,7 @@ The city of Chicago released a dataset showing all school level performance data
 Objectives:
 
 
-    Understand the dataset for Chicago Public School level performance
-    Store the dataset in an Db2 database on IBM Cloud instance
-    Retrieve metadata about tables and columns and query data from mixed case columns
-    Solve example problems to practice your SQL skills including using built-in database functions
+    1.Understand the dataset for Chicago Public School level performance
+    2.Store the dataset in an Db2 database on IBM Cloud instance
+    3.Retrieve metadata about tables and columns and query data from mixed case columns
+    4.Solve example problems to practice your SQL skills including using built-in database functions
